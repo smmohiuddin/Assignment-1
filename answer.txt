@@ -1,0 +1,24 @@
+Answer 1: 
+	Last year I was working for a fintech company that provides mobile wallet service in Bangladesh. During the pandemic when the whole country came under lockdown, then people weren't able to go to bank or ATM booth physically to collect cash. Online businesses also facing problems due to cash on delivery. Then almost 50 million people are started using the wallet service daily. There service getting crashed due to a heavy load of almost 100k requests per second. During the aforementioned, we took that challenge and optimize the solution and provide a seamless service to the people.
+	
+	We applied the following concepts in our solution
+		1. Introduce asynchronous processing by using Apache Kafka
+		2. Microservice architecture to scale up the heavy-duty service as required
+		3. Caching
+	
+	
+
+Answer 2:
+	
+	I don't have any personal projects. I used to learning different technologies, playing cricket with my friends, and watching movies in my free time. So I can talk about my real-world project.  
+
+	Currently, I'm working on a middleware project for a bank. Due to the high demand for integration with a large number of business entities (other financial services, real states, e-commerce, payment gateways, airlines, etc) bank decided to re-architect of existing applications and develop a middleware that supports their high demand and they can act with the time to market policies. 
+
+	The main goal is to isolate the core banking services from this large variety of integrations. Another main goal to reduce the cost of licensing as there are currently using  Oracle service bus which requires a high cost to achieve their goal.
+
+	Under this project, we need to develop a middleware that supports the projected business goal so that we can obsolete the OSB.
+
+
+
+Answer 3:
+	Recently I read a book called "Lie Hetland M. - Beginning Python From Novice to Professional, 3rd Edition - 2017" to study python. I'm new to python but this book is so easy and interactive to read that I can learn basic concepts, syntax, libraries, and APIs quickly. I liked the way it describes the example syntax. I recommend this book to those who  wants to learn python within a short period of time. 
